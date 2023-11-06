@@ -7,7 +7,7 @@
 
 本專案為繁體中文版，目前已補充並修改完 [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)的前半部分以及[《常用國字標準字體表》](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)的所有漢字。
 
-**注意：本字體的字形調整完全遵循個人喜好，僅遵循一般的舊字形字體寫法。**
+**注意：本字體的字形調整完全遵循個人喜好，未必遵循一般的舊字形字體寫法。**
 
 
 ## 字體預覽
