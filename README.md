@@ -11,13 +11,13 @@
 
 
 ## 字體預覽
-![6](image/對比-1.jpg)
-![7](image/對比-2.jpg)
+![6](image/对比-1.jpg)
+![7](image/对比-2.jpg)
 ![1](image/展示-1.jpg)
 ![2](image/展示-2.jpg)
 ![3](image/展示-3.jpg)
 ![4](image/展示-4.jpg)
-![5](image/特殊符號.jpg)
+![5](image/特殊符号.jpg)
 
 ## 授權資訊
 
