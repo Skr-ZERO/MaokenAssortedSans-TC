@@ -5,7 +5,7 @@
 
 貓啃什錦黑是基於日本作者[波間のかけひき](https://twitter.com/Umihotarus)創作的字體[《にしき的フォント》（Nishiki-teki）](https://umihotaru.work/)進行補充並對其中的漢字字形進行修改，以滿足中文使用需求的字體，是一款可愛的馬克筆手繪風格免費商用字體，筆劃活潑、有趣，特別適合用於可愛類、母嬰類等海報的標題。
 
-本專案為繁體中文版，目前已補充並修改完 [GB/T 12345-1990](https://github.com/NightFurySL2001/cjktables/blob/master/china/encoding/gb_t_12345.txt)的前半部分以及[《常用國字標準字體表》](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)的所有漢字。
+本專案為繁體中文版，目前的補充和修改進度請查閱[#1](https://github.com/Skr-ZERO/MaokenAssortedSans-TC/issues/1)。
 
 **注意：本字體的字形調整完全遵循個人喜好，未必遵循一般的舊字形字體寫法。請參閱[#2](https://github.com/Skr-ZERO/MaokenAssortedSans-TC/issues/2)。**
 
