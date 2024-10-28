@@ -40,6 +40,8 @@
 
 進入[『Release』頁面](https://github.com/Skr-ZERO/MaokenAssortedSans-TC/releases)下載對應版本的 TTF 或 OTF 檔。
 
+ [**點擊下載簡體中文版**](https://github.com/Skr-ZERO/MaokenAssortedSans)
+ 
 ## 致謝
 
 - [波間のかけひき](https://twitter.com/Umihotarus) 提供原版字體；
