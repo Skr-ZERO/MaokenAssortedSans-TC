@@ -45,7 +45,7 @@
 ## 致謝
 
 - [波間のかけひき](https://twitter.com/Umihotarus) 提供原版字體；
-- @白日月球、@阿東東東東、@荊南字坊、@時光羊、@帆影Shadow、@頻凡、@Y^Lin、@orunji協助補字；
+- @白日月球、@阿東東東東、@荊南字坊、[@時光羊](https://github.com/TimeSheepY)、[@Des-Magmeta](https://github.com/Des-Magmeta)、@頻凡、@Y^Lin、@orunji協助補字；
 - 所有下載使用的朋友。
 
 ## Star數趨勢圖
